@@ -1,3 +1,6 @@
+body{
+    font-size: 18px;
+}
 .navbar .nav > li {
   float:none;
   display:inline-block; 
@@ -25,6 +28,9 @@ h1,h2,h3,h4,h5,h6,span,h1 strong,a{
 }
 nav h1{
     font-family: 'Amatic SC', cursive;
+}
+header h1, header strong{
+    font-family: 'Muli', sans-serif;
 }
 .white{
     color: white;
@@ -64,7 +70,7 @@ nav h1{
     background-repeat: no-repeat;
     background-attachment:local;
     background-size: cover;
-    padding-top: 37.5em;
+    padding-top: 25em;
     padding-bottom: 4em;
     color: white;
 }
@@ -122,6 +128,11 @@ nav h1{
 #conoce img{
     padding-left: 20%;
 }
+#conoce a{
+    list-style: none;
+    font-size: 1.8em;
+    color: #53443a;
+}
 #fondo-verde{
     background: #83bd3f;
     padding: 2em;
@@ -131,6 +142,10 @@ nav h1{
     color:white;
     padding: 1em;
 }
+#fondo-morado i{
+    font-size: 4em;
+    padding-top: 100%;;
+}
 #fondo-rojo{
     background: #e63c2e;
     color: white;
@@ -139,6 +154,18 @@ nav h1{
 
 #fondo-rojo p{
     padding-bottom: 5em;
+}
+#fondo-rojo button{
+    float: right;
+    margin-right: 2em;
+    color: #e63c2e;
+    background-color: white;
+    font-size: 2em;
+    border-radius: 50px;
+    padding-left: .5em;
+    padding-right: .5em;
+    padding-top: 0em;
+    padding-bottom: 0em;
 }
 #fondo-amarillo{
     background: #e8a713;
