@@ -20,3 +20,40 @@
       vertical-align: top;
       }
 }
+
+@media (min-width: 320px) and (max-width: 1600px) {
+
+        #fondo h2{
+            text-align: center;
+        }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    #fondo h1{
+        font-size: 3em;
+    }
+    #fondo{
+    padding-top: 8em;
+    padding-bottom: 4em;
+    color: white;
+    margin-top: 1em;
+}
+    #fondo h2{
+    font-size: 2em;
+    border-color: #83bd3f;
+}
+
+}
+@media (min-width: 320px) and (max-width: 1600px) {
+
+        #fondo{
+    padding-top: 16.5em;
+    padding-bottom: 4em;
+    color: white;
+}
+}
+@media (min-width: 768px) and (max-width: 1000px) { ... }
+.mov{
+    margin-top: 1em;
+    padding-left: 15%;
+}
