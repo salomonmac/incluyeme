@@ -191,3 +191,8 @@ header h1, header strong{
     color: black;
     font-family: 'Muli', sans-serif;
 }
+#fondo-verde-2{
+    color: white;
+    background: #83bd3f;
+    
+}
