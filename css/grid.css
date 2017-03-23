@@ -20,40 +20,87 @@
       vertical-align: top;
       }
 }
-
-@media (min-width: 320px) and (max-width: 1600px) {
-
-        #fondo h2{
-            text-align: center;
-        }
-}
-
 @media (min-width: 320px) and (max-width: 767px) {
     #fondo h1{
-        font-size: 3em;
+        font-size: 2em;
     }
     #fondo{
-    padding-top: 8em;
-    padding-bottom: 4em;
+    padding-top: 2.5em;
+    padding-bottom: 1em;
     color: white;
     margin-top: 1em;
 }
     #fondo h2{
     font-size: 2em;
-    border-color: #83bd3f;
+    
+}
+    #fondo h3{
+    font-size: 1em;
+    
+}
+    .marco-1{
+    margin-top: 8%
+   
 }
 
 }
-@media (min-width: 320px) and (max-width: 1600px) {
+@media (min-width: 768px) and (max-width: 1023px) {
+    #fondo{
+        padding-top: 3em;
+        padding-bottom: 2em;
+        color: white;
+}
+    #fondo h1{
+        font-size: 5em;
+    }
+     #fondo h2{
+    font-size: 4em;
+    
+}
+    #fondo h3{
+    font-size: 2em;
+    
+}
+    .marco-1{
+    margin-top: 8%
+   
+}
+}
+@media (min-width: 1024px) and (max-width: 1199px) {
+    #fondo{
+        padding-top: 10em;
+        padding-bottom: 4em;
+        color: white;
+}
+    .marco-1{
+    margin-top: 6%
+   
+}
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+    #fondo{
+        padding-top: 9.2em;
+        padding-bottom: 4em;
+        color: white;
+}
+}
+@media (min-width: 1900px) { 
+#fondo{
+  padding-top: 27em;  
+}
+}
 
-        #fondo{
-    padding-top: 16.5em;
-    padding-bottom: 4em;
-    color: white;
-}
-}
 @media (min-width: 768px) and (max-width: 1000px) { ... }
 .mov{
     margin-top: 1em;
     padding-left: 15%;
 }
+@media (min-width: 1900px) { 
+.marco-1{
+    border: 1px solid #83bd3f;
+    margin-top: 3.5%
+        
+}
+}
+
+
