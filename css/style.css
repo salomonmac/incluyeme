@@ -253,7 +253,8 @@ footer {
 }
 .fondo-blanco{
     background: white;
-    display: table
+    display: table;
+    margin-bottom: 1em;
 }
 #pro-4 a button{
     background: #e63c2e;
