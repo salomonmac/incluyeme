@@ -208,3 +208,17 @@ footer {
 }
 
 /*------------------Programas----------------*/
+
+#fondo2 strong{
+    color: #2e6930
+}
+#fondo2 h1{
+    font-size: 3em;
+}
+#fondo2-icon ul li{
+    display:inline-block;
+    text-align: center;
+    padding-right: 1em;
+    width: 28%;
+    margin-top: -1em;
+}
