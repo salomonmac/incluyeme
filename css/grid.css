@@ -23,6 +23,9 @@
       vertical-align: top;
       }
 }
+
+
+/*-----------------------Celulares-----------------*/
 @media (min-width: 320px) and (max-width: 767px) {
     #fondo h1{
         font-size: 2em;
@@ -35,18 +38,23 @@
 }
     #fondo h2{
     font-size: 2em;
-    
 }
     #fondo h3{
-    font-size: 1em;
-    
+    font-size: 1em; 
 }
     .marco-1{
     margin-top: 8%
-   
+}
+    .fondoimg img{
+    width: 20%;
+}
+    .t4{
+    font-size: 2em;
+}
 }
 
-}
+
+/*-----------------------Tableta-----------------*/
 @media (min-width: 768px) and (max-width: 1023px) {
     #fondo{
         padding-top: 3em;
@@ -66,9 +74,29 @@
 }
     .marco-1{
     margin-top: 8%
-   
 }
+    .mov{
+        margin-top: 1em;
+        padding-left: 15%;
+    }
+    #fondo-2{
+        padding-top:8.7em;
+        margin-top: -2.5em ;
+    }
+    nav{
+        font-size: 1.2em;
+    }
+    .t5{
+    font-size: 2.1em;
 }
+    .t6{
+    font-size: 2.5em;
+}
+
+}
+
+
+/*-----------------------Computadora Chica-----------------*/
 @media (min-width: 1024px) and (max-width: 1199px) {
     #fondo{
         padding-top: 10em;
@@ -82,40 +110,34 @@
     padding-top:8.7em;
     margin-top: -1.5em;
 }
+    nav{
+        font-size: 1.5em;
+    }
+    .t5{
+    font-size: 2.8em;
 }
+
+}
+
+
+/*-----------------------Computadora Mediana-----------------*/
 @media (min-width: 1200px) and (max-width: 1400px) {
     #fondo{
         padding-top: 9.2em;
         padding-bottom: 4em;
         color: white;
 }
+
 }
+
+
+/*-----------------------Computadora Grande-----------------*/
 @media (min-width: 1900px) { 
-#fondo{
-  padding-top: 27em;  
+    #fondo{
+      padding-top: 27em;  
+    }
+    .marco-1{
+        border: 1px solid #83bd3f;
+        margin-top: 3.5%
+    }
 }
-}
-
-@media (min-width: 768px) and (max-width: 1000px) { 
-.mov{
-    margin-top: 1em;
-    padding-left: 15%;
-}
-
-#fondo-2{
-    padding-top:8.7em;
-    margin-top: -2.5em ;
-}
-}
-
-@media (min-width: 1900px) { 
-.marco-1{
-    border: 1px solid #83bd3f;
-    margin-top: 3.5%
-        
-}
-}
-
-
-/*--------------------Programas------------------*/
-

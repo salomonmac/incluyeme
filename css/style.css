@@ -58,7 +58,7 @@ header h1, header strong{
 }
 .menu{
     background: #83bd3f;
-    margin-top: -1.4em;
+    margin-top: -1.09em;
     color: white;
     padding: .4em;
 }
@@ -271,4 +271,22 @@ footer {
 }
 #pro-4 .fondo-gris{
     margin-bottom: 2em;
+}
+nav{
+    font-size: 2.2em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}
+.t4{
+    font-size: 4.2em;
+}
+.t5{
+    font-size: 3.5em;
+}
+.t6{
+    font-size: 3em;
+}
+.t7{
+    font-size: 4em;
+    padding-left: 1em;
 }
