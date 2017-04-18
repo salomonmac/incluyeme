@@ -56,6 +56,15 @@
     .esp{
     padding-bottom: 3em;
 }
+    .fondoimg{
+    padding-left: 0em;
+}
+    .fondoimg h3 a{
+        font-size: 0.8em;
+    }
+    .fondoimg img{
+        width: 20%;
+    }
 }
 
 
@@ -88,7 +97,7 @@
         font-size: 1.2em;
     }
     .t5{
-    font-size: 2.1em;
+    font-size: 2em;
 }
     .t6{
     font-size: 2.5em;
@@ -102,7 +111,15 @@
     .esp{
     padding-bottom: 1em;
 }
-
+    .fondoimg{
+    padding-left: 0em;
+}
+    .fondoimg h3 a{
+        font-size: 0.8em;
+    }
+    .fondoimg img{
+        width: 20%;
+    }
 }
 
 
@@ -128,9 +145,15 @@
     .esp{
     padding-bottom: 1em;
 }
-    .esp2{
-    padding-left: %;
+    .fondoimg{
+    padding-left: 0em;
 }
+    .fondoimg h3 a{
+        font-size: 0.8em;
+    }
+    .fondoimg img{
+        width: 20%;
+    }
 
 }
 
@@ -143,6 +166,15 @@
     .esp2{
     padding-left: 1.7%;
 }
+    .fondoimg{
+    padding-left: 4em;
+}
+    .fondoimg h3 a{
+        font-size: 0.8em;
+    }
+    .fondoimg img{
+        width: 20%;
+    }
 
 }
 

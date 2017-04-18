@@ -159,7 +159,7 @@ header h1, header strong{
 }
 
 #fondo-rojo p{
-    padding-bottom: 5em;
+    padding-bottom: 1.5em;
 }
 #fondo-rojo button{
     float: right;
@@ -214,6 +214,9 @@ footer {
 }
 #fondo2 h1{
     font-size: 3em;
+}
+#fondo2 img{
+    padding-top: 1em;
 }
 #fondo2-icon ul li{
     display:inline-block;
@@ -304,4 +307,10 @@ nav{
 }
 .esp2{
     padding-left: 3.3%;
+}
+.fondoimg{
+    padding-left: 5em;
+}
+.imggg img{
+    padding-left: 0em;
 }
