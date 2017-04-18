@@ -76,8 +76,6 @@ header h1, header strong{
     background-repeat: no-repeat;
     background-attachment:local;
     background-size: cover;
-    padding-top: 21em;
-    padding-bottom: 4em;
     color: white;
 }
 #fondo span{
@@ -206,6 +204,7 @@ header h1, header strong{
 footer {
     font-size: .9em;
     padding-top: .5em;
+    margin-top: 1em;
 }
 
 /*------------------Programas----------------*/
@@ -281,7 +280,7 @@ nav{
     font-size: 4.2em;
 }
 .t5{
-    font-size: 3.5em;
+    font-size: 3.4em;
 }
 .t6{
     font-size: 3em;
@@ -289,4 +288,20 @@ nav{
 .t7{
     font-size: 4em;
     padding-left: 1em;
+}
+.t1 strong{
+    font-size: 1.4em;
+    color: #166936;
+   font-family: 'Amatic SC', cursive;
+}
+.f1{
+    font-family: 'Amatic SC', cursive !important;
+    color: #166936;
+    font-size: 1.6em;
+}
+.esp{
+    padding-bottom: 22.2em;
+}
+.esp2{
+    padding-left: 3.3%;
 }

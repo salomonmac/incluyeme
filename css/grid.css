@@ -30,12 +30,7 @@
     #fondo h1{
         font-size: 2em;
     }
-    #fondo{
-    padding-top: 2.5em;
-    padding-bottom: 1em;
-    color: white;
-    margin-top: 1em;
-}
+   
     #fondo h2{
     font-size: 2em;
 }
@@ -51,16 +46,22 @@
     .t4{
     font-size: 2em;
 }
+    .t6{
+        font-size: 2em;
+    }
+    .t7{
+        font-size: 2.5em;
+        text-align: left;
+    }
+    .esp{
+    padding-bottom: 3em;
+}
 }
 
 
 /*-----------------------Tableta-----------------*/
 @media (min-width: 768px) and (max-width: 1023px) {
-    #fondo{
-        padding-top: 3em;
-        padding-bottom: 2em;
-        color: white;
-}
+   
     #fondo h1{
         font-size: 5em;
     }
@@ -92,17 +93,22 @@
     .t6{
     font-size: 2.5em;
 }
+    .t7{
+        font-size: 3em;
+    }
+    #articulos img{
+        padding-left: 17%;
+    }
+    .esp{
+    padding-bottom: 1em;
+}
 
 }
 
 
 /*-----------------------Computadora Chica-----------------*/
 @media (min-width: 1024px) and (max-width: 1199px) {
-    #fondo{
-        padding-top: 10em;
-        padding-bottom: 4em;
-        color: white;
-}
+    
     .marco-1{
     margin-top: 6%
 }
@@ -116,16 +122,26 @@
     .t5{
     font-size: 2.8em;
 }
+    .t6{
+        font-size: 2.5em;
+    }
+    .esp{
+    padding-bottom: 1em;
+}
+    .esp2{
+    padding-left: %;
+}
 
 }
 
 
 /*-----------------------Computadora Mediana-----------------*/
-@media (min-width: 1200px) and (max-width: 1400px) {
-    #fondo{
-        padding-top: 9.2em;
-        padding-bottom: 4em;
-        color: white;
+@media (min-width: 1200px) and (max-width: 1440px) {
+    .esp{
+        padding-bottom: 7em;
+    }
+    .esp2{
+    padding-left: 1.7%;
 }
 
 }
@@ -133,9 +149,6 @@
 
 /*-----------------------Computadora Grande-----------------*/
 @media (min-width: 1900px) { 
-    #fondo{
-      padding-top: 27em;  
-    }
     .marco-1{
         border: 1px solid #83bd3f;
         margin-top: 3.5%
