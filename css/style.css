@@ -26,6 +26,12 @@ body{
 h1,h2,h3,h4,h5,h6,span,h1 strong,a{
     font-family: 'Amatic SC', cursive;
 }
+.fuente-1{
+    font-family: 'Amatic SC', cursive;
+}
+.fuente-2{
+    font-family: 'Muli', sans-serif;
+}
 *{
     font-family: 'Muli', sans-serif;
 }
@@ -317,4 +323,23 @@ nav{
 }
 .imggg img{
     padding-left: 0em;
+}
+#espacioo{
+    padding: 0.5em;
+}
+.nav-tabs > li.active > a{
+    color: #fff;
+    cursor: default;
+    background-color: #e8a713;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+.nav-tabs a{
+    color: #41395f;
+}
+#carousel-example-generic p{
+    height: 5em;
+}
+.t-11{
+    font-size: 1em;
 }
