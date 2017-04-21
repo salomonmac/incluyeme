@@ -68,6 +68,13 @@
     .t-11{
     font-size: 0.7em;
 }
+    #carousel-example-generic .media{
+    height: 23em;
+        font-size: 0.7em;
+}
+    .left-1{
+        text-align: left;
+    }
 }
 
 
